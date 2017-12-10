@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: mmistakes/minimal-mistakes
 defaults:
     scope:
       path: ""
